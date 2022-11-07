@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\GitGroupe1",
+    "\\GitGroupe1\\GitGroupe1"
   ],
-  "SelectedNode": "\\C:\\Users\\1846348\\Source\\Repos\\groupe1",
+  "SelectedNode": "\\GitGroupe1\\GitGroupe1\\MainWindow.xaml",
   "PreviewInSolutionExplorer": false
 }
